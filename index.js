@@ -137,7 +137,7 @@ const init = async () => {
   }
 
   // Here we login the client.
-  client.login(client.config.token);
+  client.login("NjgwNDc0MjE4MTg1NDkwNDMy.XlAbAA.yPSz3APQ1HHb72l3_YT_bwhIEC4");
 
 // End top-level async/await function.
 };
