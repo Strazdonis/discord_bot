@@ -44,7 +44,7 @@
     "puppeteer-extra-plugin-adblocker": "^2.11.3",
     "puppeteer-extra-plugin-stealth": "^2.4.9",
     "request": "^2.88.2",
-    "simple-git": "^1.132.0",
+    "simple-git": "^3.5.0",
     "ytdl": "^1.2.0",
     "ytdl-core": "^2.0.0",
     "ytdl-core-discord": "^1.1.0"
